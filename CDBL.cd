@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QuanLyCuaHangMyPham.AccountBL">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABAAAgAAAAQACAAEAAABAAAACQAEQAgAAAAA=</HashCode>
+      <FileName>BLL\AccountBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.BillBL">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBgIAAAACAQgBAAEQBAAAFAAQABAAGCAQAAggAACgHE=</HashCode>
+      <FileName>BLL\BillBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.CustomerBL">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKAAMAAAACAAAAAAAAQAAAQABAAEEgQAAAIAAAAAA=</HashCode>
+      <FileName>BLL\CustomerBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.DetailImportBL">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAAAAACgEAEAMBQBAAAgAABAAACAQAAAgCAQEAA=</HashCode>
+      <FileName>BLL\DetailImportBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.EmployeeBL">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAECAIAEAAoAAAAIAAgAABAYCAoQAAgIBAAAAA=</HashCode>
+      <FileName>BLL\EmployeeBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.ImportBL">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAIAAAACBAAAAAAAAgAgAABAJSAAQCAgAAAUJAA=</HashCode>
+      <FileName>BLL\ImportBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.ProductBL">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAIAAQSiEAAEIBAQAQCAEABAACADQAgAAwAYAAA=</HashCode>
+      <FileName>BLL\ProductBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.DetailBillBL">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAhAQAEAAEAHAEAAAABABAAACAQAAAgAAAABA=</HashCode>
+      <FileName>BLL\DetailBillBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.DAL.DataProvider">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAABAAIABQAAAAAAAAAA=</HashCode>
+      <FileName>DAL\DataProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.PositionBL">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAEAAABAAAAoQAAAIAAAAAA=</HashCode>
+      <FileName>BLL\PositionBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.ProductTypeBL">
+    <Position X="9.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABABAAAQAAAAAAABAAAAAQAAAAAAQAEA=</HashCode>
+      <FileName>BLL\ProductTypeBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.SupplierBL">
+    <Position X="11" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAASACAAAgAAAAAAAAAAJAgAAiQIAAIAAAgAA=</HashCode>
+      <FileName>BLL\SupplierBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyCuaHangMyPham.ProducerBL">
+    <Position X="12.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAQAAYAAAAEAAAAAAAAAABAAAAAQAAABAAAABQ=</HashCode>
+      <FileName>BLL\ProducerBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
